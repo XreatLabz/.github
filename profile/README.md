@@ -6,7 +6,7 @@
 
 ### Simplifying installation and automation for developers worldwide
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xreatlabs)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AWFDVKTFus)
 [![Website](https://img.shields.io/badge/Website-xreatlabs.space-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xreatlabs.space)
 [![GitHub](https://img.shields.io/badge/GitHub-XreatLabz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XreatLabz)
 
@@ -128,7 +128,7 @@ Enterprise-grade optimization combining Hibernate, Chunky, ClearLag & more into 
 
 ### Connect With Us
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xreatlabs)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AWFDVKTFus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xreatlabs)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official@xreatlabs.space)
 
